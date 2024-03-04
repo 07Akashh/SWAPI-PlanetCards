@@ -1,0 +1,17 @@
+/* ResidentList.css */
+.resident-list {
+    margin-top: 10px;
+  }
+  
+  .resident-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .resident-list li {
+    margin-top: 5px;
+  }
+  
+  /* Additional styling as needed */
+
+  
