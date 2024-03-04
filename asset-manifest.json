@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SWAPI-PlanetCards/static/css/main.f5200e1d.css",
+    "main.js": "/SWAPI-PlanetCards/static/js/main.73ab725d.js",
+    "static/js/453.a2740bdc.chunk.js": "/SWAPI-PlanetCards/static/js/453.a2740bdc.chunk.js",
+    "index.html": "/SWAPI-PlanetCards/index.html",
+    "main.f5200e1d.css.map": "/SWAPI-PlanetCards/static/css/main.f5200e1d.css.map",
+    "main.73ab725d.js.map": "/SWAPI-PlanetCards/static/js/main.73ab725d.js.map",
+    "453.a2740bdc.chunk.js.map": "/SWAPI-PlanetCards/static/js/453.a2740bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5200e1d.css",
+    "static/js/main.73ab725d.js"
+  ]
+}
